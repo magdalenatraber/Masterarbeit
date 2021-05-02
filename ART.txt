@@ -1,0 +1,8 @@
+﻿@article{,
+    author  = "",
+    title   = "",
+    journal = "",
+    volume  = "",
+    year    = "",
+    pages   = "",
+ }
